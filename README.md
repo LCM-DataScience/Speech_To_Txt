@@ -1,4 +1,4 @@
 # Speech_To_Txt
-Convert voice messages in a plain txt file.
+Convert voice messages into a plain text file.
 
-Super useful for taking notes of important stuff.
+Super useful for taking notes on important information.
